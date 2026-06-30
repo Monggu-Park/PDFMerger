@@ -8,10 +8,14 @@ Static browser app for dragging in `PDF`, `PNG`, `JPG`, and `JPEG` files, previe
 
 ## Gecko Wall
 
-![Gecko](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoKtJZrtkSuQOiWvS3XprOnAf5odSnZUEDXMaTpWsHn_09Km66ty9OQnw&s=10)
-![Gecko](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoKtJZrtkSuQOiWvS3XprOnAf5odSnZUEDXMaTpWsHn_09Km66ty9OQnw&s=10)
-![Gecko](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoKtJZrtkSuQOiWvS3XprOnAf5odSnZUEDXMaTpWsHn_09Km66ty9OQnw&s=10)
-![Gecko](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoKtJZrtkSuQOiWvS3XprOnAf5odSnZUEDXMaTpWsHn_09Km66ty9OQnw&s=10)
+<p>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoKtJZrtkSuQOiWvS3XprOnAf5odSnZUEDXMaTpWsHn_09Km66ty9OQnw&s=10" alt="Gecko" width="96" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoKtJZrtkSuQOiWvS3XprOnAf5odSnZUEDXMaTpWsHn_09Km66ty9OQnw&s=10" alt="Gecko" width="96" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoKtJZrtkSuQOiWvS3XprOnAf5odSnZUEDXMaTpWsHn_09Km66ty9OQnw&s=10" alt="Gecko" width="96" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoKtJZrtkSuQOiWvS3XprOnAf5odSnZUEDXMaTpWsHn_09Km66ty9OQnw&s=10" alt="Gecko" width="96" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoKtJZrtkSuQOiWvS3XprOnAf5odSnZUEDXMaTpWsHn_09Km66ty9OQnw&s=10" alt="Gecko" width="96" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoKtJZrtkSuQOiWvS3XprOnAf5odSnZUEDXMaTpWsHn_09Km66ty9OQnw&s=10" alt="Gecko" width="96" />
+</p>
 
 ## Local Run
 
@@ -80,6 +84,10 @@ Then open `http://localhost:38481`.
 
 ## More Gecko
 
-![Gecko](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoKtJZrtkSuQOiWvS3XprOnAf5odSnZUEDXMaTpWsHn_09Km66ty9OQnw&s=10)
-![Gecko](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoKtJZrtkSuQOiWvS3XprOnAf5odSnZUEDXMaTpWsHn_09Km66ty9OQnw&s=10)
-![Gecko](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoKtJZrtkSuQOiWvS3XprOnAf5odSnZUEDXMaTpWsHn_09Km66ty9OQnw&s=10)
+<p>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoKtJZrtkSuQOiWvS3XprOnAf5odSnZUEDXMaTpWsHn_09Km66ty9OQnw&s=10" alt="Gecko" width="96" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoKtJZrtkSuQOiWvS3XprOnAf5odSnZUEDXMaTpWsHn_09Km66ty9OQnw&s=10" alt="Gecko" width="96" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoKtJZrtkSuQOiWvS3XprOnAf5odSnZUEDXMaTpWsHn_09Km66ty9OQnw&s=10" alt="Gecko" width="96" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoKtJZrtkSuQOiWvS3XprOnAf5odSnZUEDXMaTpWsHn_09Km66ty9OQnw&s=10" alt="Gecko" width="96" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoKtJZrtkSuQOiWvS3XprOnAf5odSnZUEDXMaTpWsHn_09Km66ty9OQnw&s=10" alt="Gecko" width="96" />
+</p>
