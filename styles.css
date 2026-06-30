@@ -372,14 +372,18 @@ input {
   border: 0;
   border-radius: 14px;
   padding: 0.8rem;
-  background: rgba(216, 139, 47, 0.14);
-  color: var(--accent-dark);
+  background: rgba(46, 208, 111, 0.12);
+  color: #93f37d;
   font-weight: 700;
   cursor: pointer;
+  box-shadow: inset 0 0 0 1px rgba(125, 255, 114, 0.16);
 }
 
 .preview-card__remove:hover {
-  background: rgba(216, 161, 63, 0.24);
+  background: rgba(46, 208, 111, 0.18);
+  box-shadow:
+    inset 0 0 0 1px rgba(125, 255, 114, 0.2),
+    0 0 18px rgba(46, 208, 111, 0.22);
 }
 
 .preview-card:active {
@@ -395,12 +399,11 @@ input {
 .preview-card.is-drop-after::after {
   content: "";
   position: absolute;
-  top: 50%;
+  top: 0.9rem;
   width: 3px;
-  height: 68px;
+  height: calc(100% - 1.8rem);
   border-radius: 999px;
   background: linear-gradient(180deg, var(--leaf), var(--accent));
-  transform: translateY(-50%);
   box-shadow: 0 0 0 6px rgba(23, 26, 20, 0.94);
   pointer-events: none;
 }
