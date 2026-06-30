@@ -2,6 +2,17 @@
 
 Static browser app for dragging in `PDF`, `PNG`, `JPG`, and `JPEG` files, previewing them in order, and downloading them as a single merged PDF.
 
+## PDFMerger_Screen
+
+![PDFMerger Screen](./PDFMerger_Screen.png)
+
+## Gecko Wall
+
+![Gecko](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoKtJZrtkSuQOiWvS3XprOnAf5odSnZUEDXMaTpWsHn_09Km66ty9OQnw&s=10)
+![Gecko](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoKtJZrtkSuQOiWvS3XprOnAf5odSnZUEDXMaTpWsHn_09Km66ty9OQnw&s=10)
+![Gecko](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoKtJZrtkSuQOiWvS3XprOnAf5odSnZUEDXMaTpWsHn_09Km66ty9OQnw&s=10)
+![Gecko](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoKtJZrtkSuQOiWvS3XprOnAf5odSnZUEDXMaTpWsHn_09Km66ty9OQnw&s=10)
+
 ## Local Run
 
 This is a static app, so any simple web server works.
@@ -66,3 +77,9 @@ Then open `http://localhost:38481`.
 - Remove files individually
 - Merge mixed PDFs and images
 - Download a single PDF
+
+## More Gecko
+
+![Gecko](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoKtJZrtkSuQOiWvS3XprOnAf5odSnZUEDXMaTpWsHn_09Km66ty9OQnw&s=10)
+![Gecko](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoKtJZrtkSuQOiWvS3XprOnAf5odSnZUEDXMaTpWsHn_09Km66ty9OQnw&s=10)
+![Gecko](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoKtJZrtkSuQOiWvS3XprOnAf5odSnZUEDXMaTpWsHn_09Km66ty9OQnw&s=10)
