@@ -1,0 +1,9 @@
+services:
+  pdfmerger:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: pdfmerger-app
+    ports:
+      - "38481:80"
+    restart: unless-stopped

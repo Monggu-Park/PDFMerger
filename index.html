@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>PDF Merger Studio</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="background" aria-hidden="true">
+      <div class="background__orb background__orb--one"></div>
+      <div class="background__orb background__orb--two"></div>
+      <div class="background__grid"></div>
+    </div>
+
+    <header class="topbar">
+      <div class="topbar__copy">
+        <h1 class="topbar__brand">PDFMerger</h1>
+        <p class="topbar__summary">Drop files. Reorder cards. Export one PDF.</p>
+      </div>
+    </header>
+
+    <main
+      id="dropzone"
+      class="workspace"
+      role="button"
+      tabindex="0"
+      aria-label="File drop area"
+    >
+      <input
+        id="fileInput"
+        class="workspace__input"
+        type="file"
+        accept=".pdf,.png,.jpg,.jpeg,application/pdf,image/png,image/jpeg"
+        multiple
+      />
+
+      <section class="panel">
+        <p class="panel__formats">PDF, PNG, JPG, JPEG</p>
+        <div class="toolbar">
+          <div>
+            <p id="statusText" class="toolbar__status">Drag files here or click to upload.</p>
+          </div>
+          <div class="toolbar__actions">
+            <button id="clearButton" class="button button--ghost" type="button">
+              Clear
+            </button>
+            <button id="mergeButton" class="button button--primary" type="button">
+              Merge
+            </button>
+          </div>
+        </div>
+
+        <section id="previewList" class="preview-list" aria-live="polite"></section>
+      </section>
+    </main>
+
+    <template id="previewTemplate">
+      <article class="preview-card" draggable="true">
+        <div class="preview-card__thumb-wrap">
+          <img class="preview-card__thumb" alt="" />
+          <span class="preview-card__badge"></span>
+        </div>
+        <div class="preview-card__meta">
+          <p class="preview-card__index"></p>
+          <p class="preview-card__name"></p>
+          <p class="preview-card__details"></p>
+        </div>
+        <button class="preview-card__remove" type="button" aria-label="Remove file">
+          Remove
+        </button>
+      </article>
+    </template>
+
+    <script src="https://unpkg.com/pdf-lib/dist/pdf-lib.min.js"></script>
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>
